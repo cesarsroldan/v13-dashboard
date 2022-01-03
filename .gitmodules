@@ -2,3 +2,8 @@
 	path = cesarsroldan/dashboard
 	url = git@github.com:cesarsroldan/dashboard.git
 	branch = main
+
+[submodule "cesarsroldan/dashboard-13"]
+	path = cesarsroldan/dashboard-13
+	url = git@github.com:cesarsroldan/dashboard.git
+	branch = main
