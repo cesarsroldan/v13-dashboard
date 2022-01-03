@@ -1,0 +1,4 @@
+[submodule "cesarsroldan/dashboard"]
+	path = cesarsroldan/dashboard
+	url = git@github.com:cesarsroldan/dashboard.git
+	branch = main
